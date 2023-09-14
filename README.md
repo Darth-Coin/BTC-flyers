@@ -14,3 +14,5 @@ There are two types of flyers:
 The flyers are already in various languages. You are welcome to contribute with any other language.
 
 EN - English | ES - Spanish | DE - Deutsch | HR - Croatian
+
+[Go to "files" section](https://github.com/Darth-Coin/BTC-flyers/tree/main/files) of this repository and download the files you needed.
